@@ -137,8 +137,6 @@ a:hover {
 }
 #fol1 img:hover{
     transform: scale(0.9);
-    border:2px solid gold;
-    
     box-shadow: 10px 10px 100px rgb(255, 255, 255);
 }
 h1{
